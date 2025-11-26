@@ -626,4 +626,9 @@ body.no-scroll {
   .info-image img {
     max-height: 180px;
   }
+
+}
+a[href^="tel"] {
+    color: white !important;
+    text-decoration: none !important;
 }
