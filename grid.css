@@ -301,3 +301,7 @@ h1 {
 .grid-item:hover img {
     transform: scale(1.05);
 }
+a[href^="tel"] {
+    color: white !important;
+    text-decoration: none !important;
+}
