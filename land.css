@@ -358,3 +358,7 @@ margin-bottom: 10px;
      margin-bottom:35px;
   }
 }
+a[href^="tel"] {
+    color: white !important;
+    text-decoration: none !important;
+}
