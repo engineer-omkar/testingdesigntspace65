@@ -137,7 +137,7 @@ body {
 }
 @media (max-width: 600px) {
   .founder-img {
-    width: 415px;
+    width: 315px;
   border-radius: 0px
   }
 }
@@ -632,3 +632,4 @@ a[href^="tel"] {
     color: white !important;
     text-decoration: none !important;
 }
+
