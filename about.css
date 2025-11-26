@@ -506,4 +506,9 @@ margin-bottom: 10px;
   .footer-right {
     text-align: center;
   }
+
+}
+a[href^="tel"] {
+    color: white !important;
+    text-decoration: none !important;
 }
