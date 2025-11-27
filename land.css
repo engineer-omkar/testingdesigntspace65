@@ -259,7 +259,19 @@ body.no-scroll {
   cursor: pointer;
   border-radius: 5px;
 }
-
+@media (max-width: 600px) {
+  .contact-form {
+  margin-top: 100px;
+  flex: 1;
+  max-width: 500px;
+  background: transperent;
+  padding: 20px;
+  border-radius: 0px;
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  margin-bottom: 165px;
+}
+}
 .contact-form button:hover {
   background: #444;
 }
@@ -371,4 +383,5 @@ a[href^="tel"] {
     color: white !important;
     text-decoration: none !important;
 }
+
 
