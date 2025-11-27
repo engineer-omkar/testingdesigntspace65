@@ -196,7 +196,16 @@ body.no-scroll {
   background: linear-gradient(to bottom, #AD7946, #000);
   gap: 30px;
 }
-
+@media (max-width: 768px) {
+  .hero-image {
+  margin-top: 100px;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 65px;
+}
+  }
 .hero-image {
   margin-top: 100px;
   flex: 1;
@@ -362,3 +371,4 @@ a[href^="tel"] {
     color: white !important;
     text-decoration: none !important;
 }
+
