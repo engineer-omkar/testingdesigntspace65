@@ -296,7 +296,7 @@ position: relative;
 }
 @media (max-width: 600px) {
   .choose{
- margin-top: 15px;
+ margin-top: -98px;
   }
 }
 .choose1{
@@ -512,3 +512,4 @@ a[href^="tel"] {
     color: white !important;
     text-decoration: none !important;
 }
+
