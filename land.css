@@ -376,13 +376,14 @@ margin-bottom: 10px;
     width: 50%;
     margin: 15px auto 0 auto;
     display: block;
-     margin-bottom:35px;
+     margin-bottom:65px;
   }
 }
 a[href^="tel"] {
     color: white !important;
     text-decoration: none !important;
 }
+
 
 
 
