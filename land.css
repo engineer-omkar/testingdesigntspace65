@@ -203,7 +203,7 @@ body.no-scroll {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: -25px;
+  margin-bottom: 65px;
 }
   }
 .hero-image {
@@ -355,7 +355,7 @@ margin-bottom: 10px;
     max-width: 280px;
     margin: 20px auto;
     display: block;
-     margin-bottom:-25px;
+     margin-bottom:-65px;
   }
 
   /* Contact form smaller + centered */
@@ -383,6 +383,7 @@ a[href^="tel"] {
     color: white !important;
     text-decoration: none !important;
 }
+
 
 
 
